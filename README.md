@@ -1,4 +1,4 @@
-# RNA-seq Analysis Pipeline: LARP1KO vs CaS9
+# RNA-seq Analysis Pipeline: LARP1KO vs Cas9
 
 This repository contains the code for processing and analyzing RNA-seq data derived from MPN cell lines (HEL/SET-2) to investigate the effects of LARP1KO.
 
